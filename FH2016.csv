@@ -2219,7 +2219,7 @@ UCINumeric,country,year,cl,pr,status
 325,Italy,2012,1,2,Free
 325,Italy,2013,1,1,Free
 325,Italy,2014,1,1,Free
-325,Italy,2015,1,1,Fr
+325,Italy,2015,1,1,Free
 331,San Marino,1972,2,2,Free
 331,San Marino,1973,2,2,Free
 331,San Marino,1974,2,2,Free
@@ -3203,7 +3203,7 @@ UCINumeric,country,year,cl,pr,status
 403,Sao Tome & Principe,2012,2,2,Free
 403,Sao Tome & Principe,2013,2,2,Free
 403,Sao Tome & Principe,2014,2,2,Free
-403,Sï¿½o Tomï¿½ and Prï¿½ncipe,2015,2,2,Free
+403,S‹o TomŽ and Pr’ncipe,2015,2,2,Free
 404,Guinea-Bissau,1974,6,6,Not Free
 404,Guinea-Bissau,1975,6,6,Not Free
 404,Guinea-Bissau,1976,6,6,Not Free
@@ -3588,7 +3588,7 @@ UCINumeric,country,year,cl,pr,status
 437,Cote d'Ivoire,2012,5,5,Partly Free
 437,Cote d'Ivoire,2013,4,5,Partly Free
 437,Cote d'Ivoire,2014,4,5,Partly Free
-437,Cï¿½te d'Ivoire,2015,4,4,Partly Free
+437,C™te d'Ivoire,2015,4,4,Partly Free
 438,Guinea,1972,7,7,Not Free
 438,Guinea,1973,7,7,Not Free
 438,Guinea,1974,7,7,Not Free
