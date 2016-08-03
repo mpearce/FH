@@ -6,6 +6,6 @@ Original datasets are available here: https://freedomhouse.org/report-types/free
 
 The source files used to compile these measures are included in this archive.
 
-August, 2016
-Matt Pearce
+August, 2016  
+Matt Pearce  
 matt@pearce.com
